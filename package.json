@@ -1,0 +1,28 @@
+{
+  "name": "WebRTC_Signaling_Server",
+  "version": "1.0.0",
+  "description": "A sample signaling server designed for usage with WebRTC based mobile/browser clients to establish a 1-1 video call",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "json-file-db": "^0.0.2",
+    "socket.io": "^1.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WebRTCServer",
+    "WebRTC",
+    "AppRTC",
+    "Videocall",
+    "WebRTCdemo",
+    "nodejs",
+    "Android",
+    "SignalingServer"
+  ],
+  "author": "Androidhacks7",
+  "license": "MIT"
+}
